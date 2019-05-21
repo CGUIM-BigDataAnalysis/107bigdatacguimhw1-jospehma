@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2486618123",
+    "hash" : "1424292985",
     "id" : "8800227",
-    "lastKnownWriteTime" : 1558425152,
-    "last_content_update" : 1558425152210,
+    "lastKnownWriteTime" : 1558425319,
+    "last_content_update" : 1558425319662,
     "path" : "~/GitHub/107bigdatacguimhw1-jospehma/SalaryAnalysis.Rmd",
     "project_path" : "SalaryAnalysis.Rmd",
     "properties" : {
-        "cursorPosition" : "108,19",
-        "scrollLine" : "95"
+        "cursorPosition" : "97,0",
+        "scrollLine" : "76"
     },
     "relative_order" : 2,
     "source_on_save" : false,
